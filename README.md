@@ -2,7 +2,11 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/sycho/lite-youtube-embed.svg)](https://packagist.org/packages/sycho/lite-youtube-embed) [![Total Downloads](https://img.shields.io/packagist/dt/sycho/lite-youtube-embed.svg)](https://packagist.org/packages/sycho/lite-youtube-embed)
 
-A [Flarum](http://flarum.org) extension. Lite YouTube Embed integration
+A [Flarum](http://flarum.org) extension.
+
+Replaces iframe YouTube embeds from ![`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) with a lightweight embed implementation using ![`lite-youtube`](https://github.com/justinribeiro/lite-youtube).
+
+Th `MediaEmbed` option in `fof/formatting` must be enabled for this extension to work.
 
 ## Installation
 

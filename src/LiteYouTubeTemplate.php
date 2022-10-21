@@ -14,6 +14,6 @@ class LiteYouTubeTemplate
 
         $tag = $config->tags['YOUTUBE'];
 
-        $tag->template = '<lite-youtube videoid="{@id}" style="background-image: url(https://i.ytimg.com/vi/{@id}/hqdefault.jpg);"></lite-youtube>';
+        $tag->template = '<lite-youtube videoid="{@id}"></lite-youtube>';
     }
 }

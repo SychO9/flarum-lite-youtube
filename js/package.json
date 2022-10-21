@@ -26,6 +26,6 @@
     },
     "prettier": "@flarum/prettier-config",
     "dependencies": {
-        "lite-youtube-embed": "^0.2.0"
+        "@justinribeiro/lite-youtube": "^1.4.0"
     }
 }
