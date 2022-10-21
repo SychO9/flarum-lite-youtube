@@ -8,6 +8,10 @@ class LiteYouTubeTemplate
 {
     public function __invoke(Configurator $config)
     {
+        if (! isset($config->MediaEmbed)) {
+            return;
+        }
+
         $tag = $config->tags['YOUTUBE'];
 
         $tag->template = '<lite-youtube videoid="{@id}" style="background-image: url(https://i.ytimg.com/vi/{@id}/hqdefault.jpg);"></lite-youtube>';
