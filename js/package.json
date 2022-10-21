@@ -1,5 +1,5 @@
 {
-    "name": "@sycho/lite-youtube-embed",
+    "name": "@sycho/flarum-lite-youtube",
     "private": true,
     "version": "0.0.0",
     "devDependencies": {

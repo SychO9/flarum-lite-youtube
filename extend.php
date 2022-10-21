@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of sycho/lite-youtube-embed.
+ * This file is part of sycho/flarum-lite-youtube.
  *
  * Copyright (c) 2022 Sami Mazouz.
  *

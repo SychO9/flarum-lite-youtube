@@ -1,6 +1,6 @@
 # Lite YouTube Embed
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/sycho/lite-youtube-embed.svg)](https://packagist.org/packages/sycho/lite-youtube-embed) [![Total Downloads](https://img.shields.io/packagist/dt/sycho/lite-youtube-embed.svg)](https://packagist.org/packages/sycho/lite-youtube-embed)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/sycho/flarum-lite-youtube.svg)](https://packagist.org/packages/sycho/flarum-lite-youtube) [![Total Downloads](https://img.shields.io/packagist/dt/sycho/flarum-lite-youtube.svg)](https://packagist.org/packages/sycho/flarum-lite-youtube)
 
 A [Flarum](http://flarum.org) extension.
 
@@ -13,19 +13,19 @@ Th `MediaEmbed` option in `fof/formatting` must be enabled for this extension to
 Install with composer:
 
 ```sh
-composer require sycho/lite-youtube-embed:"*"
+composer require sycho/flarum-lite-youtube:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update sycho/lite-youtube-embed:"*"
+composer update sycho/flarum-lite-youtube:"*"
 php flarum migrate
 php flarum cache:clear
 ```
 
 ## Links
 
-- [Packagist](https://packagist.org/packages/sycho/lite-youtube-embed)
-- [GitHub](https://github.com/sycho/lite-youtube-embed)
+- [Packagist](https://packagist.org/packages/sycho/flarum-lite-youtube)
+- [GitHub](https://github.com/sycho/flarum-lite-youtube)
 - [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
