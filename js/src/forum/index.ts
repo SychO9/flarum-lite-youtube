@@ -1,5 +1,6 @@
 import app from 'flarum/forum/app';
+import * as LY from 'lite-youtube-embed';
 
 app.initializers.add('sycho/lite-youtube-embed', () => {
-  console.log('[sycho/lite-youtube-embed] Hello, forum!');
+  window.liteYoutube = LY;
 });
