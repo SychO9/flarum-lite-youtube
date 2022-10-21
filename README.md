@@ -4,9 +4,9 @@
 
 A [Flarum](http://flarum.org) extension.
 
-Replaces iframe YouTube embeds from ![`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) with a lightweight embed implementation using ![`lite-youtube`](https://github.com/justinribeiro/lite-youtube).
+Replaces iframe YouTube embeds from [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting) with a lightweight embed implementation using [`lite-youtube`](https://github.com/justinribeiro/lite-youtube).
 
-Th `MediaEmbed` option in `fof/formatting` must be enabled for this extension to work.
+The `MediaEmbed` option in `fof/formatting` must be enabled for this extension to work.
 
 ## Installation
 
