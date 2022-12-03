@@ -17,6 +17,11 @@
             "role": "Developer"
         }
     ],
+    "support": {
+        "source": "https://github.com/SychO9/flarum-lite-youtube",
+        "issues": "https://github.com/SychO9/flarum-lite-youtube/issues",
+        "forum": "https://discuss.flarum.org/d/31817-lite-youtube-embed/5"
+    },
     "autoload": {
         "psr-4": {
             "SychO\\LiteYouTube\\": "src/"

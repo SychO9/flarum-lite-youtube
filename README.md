@@ -33,5 +33,5 @@ I might publish simple bugfixes or compatibility updates for free.
 ## Links
 
 - [Packagist](https://packagist.org/packages/sycho/flarum-lite-youtube)
-- [GitHub](https://github.com/sycho/flarum-lite-youtube)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [GitHub](https://github.com/SychO9/flarum-lite-youtube)
+- [Discuss](https://discuss.flarum.org/d/31817-lite-youtube-embed/5)
