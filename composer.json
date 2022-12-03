@@ -30,6 +30,9 @@
         "flarum-extension": {
             "title": "Lite YouTube Embed",
             "category": "features",
+            "optional-dependencies": [
+                "fof/formatting"
+            ],
             "icon": {
                 "name": "fab fa-youtube",
                 "backgroundColor": "#117187",
